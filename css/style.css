@@ -1,0 +1,9 @@
+.header {
+    width: fit-content;
+    margin: 10px auto;
+  }
+  .container {
+    width: 40vw;
+    margin: auto;
+    background-color: bisque;
+  }
